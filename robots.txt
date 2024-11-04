@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atuveaya.github.io/Cqe/sitemap_index.txt
+Sitemap: https://atuveaya.github.io/UGI/sitemap_index.txt
+Sitemap: https://atuveaya.github.io/nyI/sitemap_index.txt
+Sitemap: https://atuveaya.github.io/vOp/sitemap_index.txt
